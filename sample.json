@@ -1,20 +1,20 @@
 {
-        heading: [
+        "heading": [
             "I'm rolling the stats for a",
             "Check this out, I'm going to be a",
             "You think your character is cool? My character is a",
         ],
-        response: [
+        "response": [
             "That sounds terrible",
             "Give me another one",
             "I don't really care about that guy",
             "I've already roleplayed that one",
             "That doesn't make any sense",
         ],
-	template: [
+	"template": [
 	    "@adjective @alg1 @alg2 @race @clas from @location who @backstory and has STR:@roll DEX:@roll CON:@roll WIS:@roll INT:@roll CHA:@roll"
 	],
-        adjective: [
+        "adjective": [
             "bigoted",
             "bitchy",
             "blunt",
@@ -172,7 +172,7 @@
             "hard-working",
             "modest",
         ],
-        race: [
+        "race": [
             "Dragonborn",
             "Dwarf",
             "Elf",
@@ -183,7 +183,7 @@
             "Human",
             "Tiefling",
         ],
-        class: [
+        "class": [
             "Cleric",
             "Fighter",
             "Rogue",
@@ -197,7 +197,7 @@
             "Sorcerer",
             "Warlock",
         ],
-        location: [
+        "location": [
             "a tiny village",
             "the smallest mountain in the world",
             "the forest of sadness",
@@ -434,7 +434,7 @@
             "a secret order of monks",
             "the imperial army",
         ],
-        backstory: [
+        "backstory": [
             "doesn't believe in magic, ever",
             "hates wearing their glasses",
             "finds it impossible to speak to girls",
@@ -717,17 +717,17 @@
             "doesn't speak a word of common",
 
         ],
-    	alg1: [
+    	"alg1": [
          "Chaotic"
 		,"Neutral"
 		,"Lawful"
 	],
-    	alg2: [
+    	"alg2": [
          "Good"
 		,"Neutral"
 		,"Evil"
 	],
-    	roll: [
+    	"roll": [
          "(3) -4"
 		,"(4) -3"
 		,"(4) -3"
