@@ -1,13 +1,13 @@
 {
     "heading": [
-        "It's a fucking",
-        "Check this shit out, a fucking"
+        "It's a",
+        "Check this out, a"
     ],
 
     "response": [
-        "Already fucking seen one",
-        "Give me a-fucking-nother one",
-        "How the fuck would you play that?"
+        "Already seen one",
+        "Give me another one",
+        "How would you play that?"
     ],
 
     "template": [
@@ -250,12 +250,5 @@
 		,"1(7) +3"
 		,"1(7) +3"
 		,"18: +4"
-    ],
-
-    "color": [
-        "red",
-        "blue",
-        "green",
-        "yellow"
     ]
 }
