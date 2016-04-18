@@ -2,14 +2,14 @@
         "heading": [
             "I'm rolling the stats for a",
             "Check this out, I'm going to be a",
-            "You think your character is cool? My character is a",
+            "You think your character is cool? My character is a"
         ],
         "response": [
             "That sounds terrible",
             "Give me another one",
             "I don't really care about that guy",
             "I've already roleplayed that one",
-            "That doesn't make any sense",
+            "That doesn't make any sense"
         ],
 	"template": [
 	    "@adjective @alg1 @alg2 @race @clas from @location who @backstory and has STR:@roll DEX:@roll CON:@roll WIS:@roll INT:@roll CHA:@roll"
@@ -170,7 +170,7 @@
             "diplomatic",
             "faithful",
             "hard-working",
-            "modest",
+            "modest"
         ],
         "race": [
             "Dragonborn",
@@ -181,7 +181,7 @@
             "Half-orc",
             "Halfling",
             "Human",
-            "Tiefling",
+            "Tiefling"
         ],
         "class": [
             "Cleric",
@@ -195,7 +195,7 @@
             "Paladin",
             "Ranger",
             "Sorcerer",
-            "Warlock",
+            "Warlock"
         ],
         "location": [
             "a tiny village",
@@ -432,7 +432,7 @@
             "the quality control for potion brewing association",
             "a town where orcs are bought and sold as slaves",
             "a secret order of monks",
-            "the imperial army",
+            "the imperial army"
         ],
         "backstory": [
             "doesn't believe in magic, ever",
@@ -714,7 +714,7 @@
             "parties hard, way too hard.",
             "isn't technically alive anymore",
             "is convinced they're always being left out",
-            "doesn't speak a word of common",
+            "doesn't speak a word of common"
 
         ],
     	"alg1": [
