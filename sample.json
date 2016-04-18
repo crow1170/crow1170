@@ -12,7 +12,7 @@
             "That doesn't make any sense"
         ],
 	"template": [
-	    "@adjective @alg1 @alg2 @race @clas from @location who @backstory and has STR:@roll DEX:@roll CON:@roll WIS:@roll INT:@roll CHA:@roll"
+	    "@adjective @alg1 @alg2 @race @class from @location who @backstory and has STR:@roll DEX:@roll CON:@roll WIS:@roll INT:@roll CHA:@roll"
 	],
         "adjective": [
             "bigoted",
